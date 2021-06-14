@@ -1,3 +1,6 @@
-[submodule "WpfControls.Viewport"]
-	path = WpfControls.Viewport
+[submodule "Core"]
+	path = Core
+	url = https://github.com/7imekeeper/WpfControls.Core
+[submodule "Viewport"]
+	path = Viewport
 	url = https://github.com/7imekeeper/WpfControls.Viewport
