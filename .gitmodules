@@ -4,3 +4,9 @@
 [submodule "Viewport"]
 	path = Viewport
 	url = https://github.com/7imekeeper/WpfControls.Viewport
+[submodule "NumericUpDown"]
+	path = NumericUpDown
+	url = https://github.com/7imekeeper/WpfControls.NumericUpDown
+[submodule "ColorPicker"]
+	path = ColorPicker
+	url = https://github.com/7imekeeper/WpfControls.ColorPicker
